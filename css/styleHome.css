@@ -1,0 +1,56 @@
+h1{
+    background-color: brown;
+} 
+
+.firsttext{
+    border-style:double;
+    margin: 15px 20px;
+    padding: 5 ;
+    text-align: center; 
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h4{
+    background-color: brown;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.button{
+    background-color: rgb(63, 63, 117);
+    color: aliceblue;
+    font-size: 20px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    border-radius: 100px;
+}
+h2{
+    color: aliceblue;
+    background-color: brown;
+    padding: 15px;
+    border-color: black;
+    border-style:solid;
+    border-radius: 10px;
+    border-width: 5px;
+}
+#img1{
+    display: block;
+    margin: 0% auto;
+}
+h3{
+    font-size: 25px;
+    background-color: brown;
+    padding: 15px;
+}
+pre{
+    font-weight: bold;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
