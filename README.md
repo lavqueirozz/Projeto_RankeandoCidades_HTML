@@ -4,15 +4,15 @@
 
 <h2>Estrutura do Projeto</h2>
 /ranking-cidades-sp
-│
-├─ index.html          # Página principal com ranking das cidades
-├─ /css
-│   └─ style.css       # Estilos globais do site
-├─ /cidades
-│   ├─ cidade1.html    # Página da cidade 1
-│   ├─ cidade2.html    # Página da cidade 2
-│   └─ ...             # Páginas das demais cidades
-├─ /imagens
+
+    index.html          # Página principal com ranking das cidades
+    /css
+     └─ style.css       # Estilos globais do site
+    /cidades
+     ├─ cidade1.html    # Página da cidade 1
+     ├─ cidade2.html    # Página da cidade 2
+     └─ ...             # Páginas das demais cidades
+     /imagens
     └─ imagem-cidade.jpg  # Imagens das cidades
 
 
@@ -34,7 +34,7 @@ Vídeo incorporado via link externo.
 
 Design responsivo usando HTML e CSS.
 
-Tecnologias Utilizadas
+<h2>Tecnologias Utilizadas</h2>
 
 HTML5 – Estrutura do site.
 
@@ -67,6 +67,6 @@ Faça push para a branch: git push origin minha-nova-funcionalidade.
 
 Abra um Pull Request.
 
-Licença
+<h2>Licença</h2>
 
 Este projeto está sob a licença MIT.
